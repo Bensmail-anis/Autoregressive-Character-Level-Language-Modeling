@@ -1,0 +1,2 @@
+# Character-Level-Language-Modeling-using-transformers-and-different-deep-learning-architectures
+The model generates new text based on the patterns learned in a training data.It can be applied to various tasks, such as generating creative names (e.g., company or baby names) or producing text that mimics a given dataset, making it a versatile tool for autoregressive text generation. This implementation is inspired by Andrej Karpathy's makemore.

@@ -28,6 +28,11 @@ Additionally, we visualized the gradients to mitigate the risk of exploding grad
 
 ![gradient distribution](images/gra.png)
 
+
+Our implementation was similar to the MLP language model proposed by Bengio et al. in 2003, but we applied it at the character level.
+
+![gradient distribution](images/bengio.png)
+
 ## Setup and Execution :
 Go to the desired architecture in the **src** :
 

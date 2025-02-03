@@ -1,0 +1,5 @@
+train loss: 2.4028968811035156
+val loss: 2.408480644226074
+test loss: 2.403020143508911
+Generated Names:
+['kemir.', 'taliedan.', 'jidi.', 'teia.', 'janui.', 'jassefa.', 'yfa.', 'maelaplxad', 'mana.', 'jekamahlia', 'menay.', 'ihkanaavel', 'eragrnew.', 'daliahil.', 'wyahnerida', 'kavtes.', 'yline.', 'ilayzen.', 'xvyenorilq', 'vemimra.']

@@ -8,6 +8,7 @@ The model generates new text based on the patterns learned in a training data.It
 - **Bigram Character-Level Language Model for Name Generation:**
   
 We explored a fundamental approach based on bigram probabilities to capture sequential character dependencies. Initially, we constructed a simple probabilistic matrix that models the likelihood of a character given the previous one, then we built a simple neural network architecture that learns these dependencies more effectively as an introduction for the next architectures.
+
 ![probabilities](images/bigram.png)
 
 - **MLP-Based Character-Level Language Model:**

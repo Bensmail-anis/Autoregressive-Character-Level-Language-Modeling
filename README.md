@@ -19,6 +19,14 @@ To visualize these embeddings, we applied t-SNE for dimensionality reduction, re
 ![char embeddings](images/embed2.png)
 
 
+We manually constructed several layers to gain a deeper understanding of the inner workings of the PyTorch library. To tackle the vanishing gradient problem, we explored the importance of weight initialization and batch normalization. Our chosen activation function was Tanh(), where we aimed to minimize saturation by ensuring the activation distribution did not saturate at 1.
+
+![activation distribution](images/acti.png)
+
+Additionally, we visualized the gradients to mitigate the risk of exploding gradients.
+
+![gradient distribution](images/gra.png)
+
 ## Setup and Execution :
 Go to the desired architecture in the **src** :
 

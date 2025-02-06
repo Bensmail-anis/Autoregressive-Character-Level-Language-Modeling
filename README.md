@@ -33,6 +33,11 @@ Our implementation was similar to the MLP language model proposed by Bengio et a
 
 ![gradient distribution](images/bengio.png)
 
+Then , we implemented the WaveNet architecture inspired by DeepMind's 2016 paper, using a custom FlattenConsecutive class to merge consecutive time steps, enabling better feature extraction across sequences. The architecture consists of an embedding layer followed by multiple blocks that sequentially apply flattening, linear transformations, batch normalization, and Tanh activation functions. The final layer maps hidden features to vocabulary logits, capturing complex dependencies efficiently for sequential data modeling.
+
+![wavenet](images/wavenet.png)
+
+
 ## Setup and Execution :
 Go to the desired architecture in the **src** :
 

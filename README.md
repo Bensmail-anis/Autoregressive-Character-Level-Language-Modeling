@@ -37,6 +37,19 @@ Then , we implemented the WaveNet architecture inspired by DeepMind's 2016 paper
 
 ![wavenet](images/wavenet.png)
 
+We used the negative average log like-lihood as a metric and we got 1.9936515092849731 as a loss , some of the generated names :
+```bash
+stephania.
+roger.
+aiyanah.
+lorron.
+christell.
+kelipson.
+briyah.
+sylot.
+zennica.
+mythan.
+```
 
 ## Setup and Execution :
 Go to the desired architecture in the **src** :

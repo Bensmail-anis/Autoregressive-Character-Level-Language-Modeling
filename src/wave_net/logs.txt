@@ -1,0 +1,88 @@
+   0/ 200000: 3.2988
+  10000/ 200000: 2.3721
+  20000/ 200000: 2.7423
+  30000/ 200000: 1.7142
+  40000/ 200000: 2.1353
+  50000/ 200000: 1.5618
+  60000/ 200000: 2.4494
+  70000/ 200000: 1.7540
+  80000/ 200000: 1.5652
+  90000/ 200000: 2.0076
+ 100000/ 200000: 1.7110
+ 110000/ 200000: 2.1263
+ 120000/ 200000: 1.9064
+ 130000/ 200000: 1.7399
+ 140000/ 200000: 1.7677
+ 150000/ 200000: 2.0651
+ 160000/ 200000: 2.1715
+ 170000/ 200000: 1.6422
+ 180000/ 200000: 1.8181
+ 190000/ 200000: 1.5744
+train loss: 1.7651214599609375
+val loss: 1.992789387702942
+
+Generation with temperature 0.7:
+romina.
+eminira.
+kamrey.
+lilliana.
+arif.
+zamark.
+kaitlyn.
+yian.
+jemika.
+kajen.
+grethan.
+kymari.
+clegan.
+graycen.
+sahab.
+detayul.
+carmin.
+taylin.
+aliza.
+noel.
+
+Generation with temperature 1.0:
+chaelee.
+dayve.
+vihaana.
+suhemy.
+liani.
+aere.
+koryn.
+emalee.
+arlin.
+galmy.
+auronna.
+briddon.
+jaryn.
+jahzi.
+sulaim.
+kwalob.
+aiyah.
+auran.
+niraly.
+leon.
+
+Generation with temperature 1.5:
+yarikbe.
+shylon.
+mnalila.
+kabsal.
+phiraan.
+wordlany.
+eunuhmano.
+kaenin.
+rukasmak.
+zakarria.
+koubf.
+miabal.
+pia.
+sahib.
+ockai.
+sopan.
+yovi.
+veaghafora.
+wuajmavirell.
+abeljae.
